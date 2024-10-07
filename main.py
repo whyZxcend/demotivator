@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import photo_editor
 from colorama import init, Fore, Style
 
-TOKEN = '7739470588:AAFcNmhhxf8dhMkkmsvwAoMD19aQ_5qmScw'
+TOKEN = 'wтокен'
 
 init()
 
